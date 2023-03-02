@@ -1,5 +1,6 @@
-# PruebaTecnica1
+# Prueba Tecnica 2
 ## Angular
+CRUD with Agular, Node js, Mysql
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
 
